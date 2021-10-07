@@ -1,0 +1,16 @@
+{
+  "domain": "anova",
+  "name": "AnovaWifi",
+  "config_flow": true,
+  "version": "0.0.1",
+  "documentation": "https://www.example.com/",
+  "requirements": [],
+  "ssdp": [],
+  "zeroconf": [],
+  "homekit": {},
+  "dependencies": [],
+  "codeowners": [
+    "@jan-kuechler"
+  ],
+  "iot_class": "cloud_polling"
+}
